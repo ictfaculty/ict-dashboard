@@ -2,8 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
+* {
     /* font-family: 'Nunito Sans', sans-serif; */
     /* font-family: 'Montserrat', sans-serif; */
     font-family: 'Inter', sans-serif;
+}
+
+.modal .ant-btn:last-child {
+    background-color: #1677FF;
+}
+
+.ant-form-item label{
+    width: 100px;
 }

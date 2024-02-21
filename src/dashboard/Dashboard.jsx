@@ -20,21 +20,21 @@ const Dashboard = () => {
       id: 3,
       label: 'Новости',
       icon: <NewsIcon />,
-      path: 'news', 
+      path: 'news',
       component: News
     },
     {
       id: 1,
       label: 'Объявление',
       icon: <SpeakerIcon />,
-      path: 'announce', 
+      path: 'announce',
       component: Announcement
     },
     {
       id: 2,
       label: 'Расписание',
       icon: <TimetableIcon />,
-      path: 'timetable', 
+      path: 'timetable',
       component: Timetable
     },
   ];
@@ -43,7 +43,11 @@ const Dashboard = () => {
     <Layout className='min-h-[100vh]'>
       <Sider trigger={null} collapsible collapsed={collapsed}>
         <div className="demo-logo-vertical py-4" />
-        <Menu theme="dark" mode="inline">
+        <Menu
+          theme="dark"
+          mode="inline"
+          defaultSelectedKeys={['3']}
+        >
           {items.map((item) => (
             <Menu.Item key={item.id} icon={item.icon}>
               <NavLink to={item.path} activeClassName="ant-menu-item-selected">

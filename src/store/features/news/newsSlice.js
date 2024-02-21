@@ -7,14 +7,15 @@ const initialState = {
     newsList: []
 }
 
-const api = 'http://192.168.43.145:8080'
+const api = 'http://77.95.1.235:8585'
 
 //getNews
 export const getNews = createAsyncThunk(
     "news/getNews",
     async () =>{
         try {
-            const data = await axios.get(`${api}/news`)
+            const response = await axios.get(`${api}/news`)
+            const data = response.data.data
             return data
         } catch (error) {
             console.error(error);
@@ -22,6 +23,20 @@ export const getNews = createAsyncThunk(
     }
 )
 
+//addNews
+export const addNews = createAsyncThunk(
+    "news/addNews",
+    async (news) =>{
+        try {
+            const response = await axios.post(`${api}/${news}`)
+            const data = response.data.data
+            getNews()
+            return data
+        } catch (error) {
+            console.error(error);
+        }
+    }
+)
 export const newsSlice = createSlice({
     name: 'news',
     initialState,

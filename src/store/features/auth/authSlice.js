@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit"
 
-const api = 'http://192.168.43.145:8080'
+const api = 'http://77.95.1.235:8585'
 
 // const isAuthed = Boolean(localStorage.getItem('accessToken'))
 
