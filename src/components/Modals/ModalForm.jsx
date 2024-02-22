@@ -10,6 +10,14 @@ const ModalForm = () => {
     const [form] = Form.useForm();
     const onFinish = (values) => {
         console.log('Received values of form: ', values);
+        console.log('Uploaded files:', values.fileList);
+    };
+    const normFile = (e) => {
+        console.log('upload event:', e);
+        if (Array.isArray(e)) {
+            return e;
+        }
+        return e?.fileList;
     };
 
     const handleOk = () => {
@@ -36,9 +44,28 @@ const ModalForm = () => {
                         <Input />
                     </Form.Item>
                     <Form.Item name='description' label="Описание">
-                        <TextArea rows={4} />
+                        <TextArea rows={6} />
                     </Form.Item>
-                    {/* Добавьте аналогичные правила и для других полей, если необходимо */}
+                    <Form.Item label="Upload" valuePropName="fileList" getValueFromEvent={normFile}>
+                        <Upload action="http://77.95.1.235:8585/news" maxCount={1} listType="picture-card">
+                            <button
+                                style={{
+                                    border: 0,
+                                    background: 'none',
+                                }}
+                                type="button"
+                            >
+                                <PlusOutlined />
+                                <div
+                                    style={{
+                                        marginTop: 8,
+                                    }}
+                                >
+                                    Upload
+                                </div>
+                            </button>
+                        </Upload>
+                    </Form.Item>
                 </Form>
             </Modal>
         </>
