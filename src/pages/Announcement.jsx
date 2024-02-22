@@ -8,7 +8,7 @@ const Announcement = () => {
     <section>
       <ul className='flex flex-col gap-3'>
         {announcements.map(a => (
-          <li className='flex justify-between bg-slate-100 p-4'>
+          <li key={a.id} className='flex justify-between bg-slate-100 p-4'>
             <div className='flex'>
               <span className='w-7'>
                 {a.id}

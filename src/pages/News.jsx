@@ -8,6 +8,7 @@ import ModalForm from '../components/Modals/ModalForm';
 
 const News = () => {
   const newsList = useSelector(state => state.news.newsList)
+  console.log(newsList);
   const loading = useSelector(state => state.news.isLoading)
   const [showModal, setShowModal] = useState(false)
 
@@ -38,7 +39,12 @@ const News = () => {
           <ul className='flex flex-col gap-3'>
             {newsList.map(n => (
               <li key={n.id} className='flex justify-between bg-slate-100 p-4'>
-                <div className='flex'>
+                <div className='flex gap-2 items-center'>
+                  <img
+                    className='w-10 h-10'
+                    src={n.image_url}
+                    alt=""
+                  />
                   <span>
                     {n.title}
                   </span>
