@@ -38,7 +38,7 @@ const Login = () => {
                 <div className="">
                     <p className='mb-4'><span className='text-[red]'>* </span>Логин:</p>
                     <Input
-                        placeholder="@gmail.com"
+                        placeholder="Логин"
                         className='h-[39px]'
                         value={fillAuth.username}
                         onChange={e => setFillAuth({ ...fillAuth, username: e.target.value })}
@@ -63,7 +63,7 @@ const Login = () => {
                     >
                         <Input.Password 
                         className='h-[39px]'
-                        placeholder='Password'
+                        placeholder='Пароль'
                         />
                     </Form.Item>
 
