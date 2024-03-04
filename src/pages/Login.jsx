@@ -36,7 +36,7 @@ const Login = () => {
                     <p className='text-[#202224]'>Введите свой логин и пароль</p>
                 </div>
                 <div className="">
-                    <p className='mb-4'><span className='text-[red]'>* </span>Адрес электронной почты:</p>
+                    <p className='mb-4'><span className='text-[red]'>* </span>Логин:</p>
                     <Input
                         placeholder="@gmail.com"
                         className='h-[39px]'
@@ -46,7 +46,7 @@ const Login = () => {
                 </div>
                 <div className="">
                     <div className="flex justify-between items-center">
-                        <p className='mb-4'><span className='text-[red]'>* </span>Пароль</p>
+                        <p className='mb-4'><span className='text-[red]'>* </span>Пароль:</p>
                         <p className='mb-4'>Забыть пароль?</p>
                     </div>
                     <Form.Item
