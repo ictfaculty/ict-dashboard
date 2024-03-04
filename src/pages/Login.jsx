@@ -33,7 +33,7 @@ const Login = () => {
             <div className="w-[90%] md:w-[55%] lg:w-[32%] bg-[#fff] py-[50px] px-[27px] rounded-2xl flex flex-col gap-[40px]">
                 <div className="text-center">
                     <h2 className='text-[21px] md:text-[31px] font-medium'>Войти в аккаунт</h2>
-                    <p className='text-[#202224]'>Введите свой адрес электронной почты и пароль</p>
+                    <p className='text-[#202224]'>Введите свой логин и пароль</p>
                 </div>
                 <div className="">
                     <p className='mb-4'><span className='text-[red]'>* </span>Адрес электронной почты:</p>
