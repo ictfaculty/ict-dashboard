@@ -6,6 +6,7 @@
   import Announcement from '../pages/Announcement';
   import Timetable from '../pages/Timetable';
   import Login from '../pages/Login';
+import { LogoutOutlined } from '@ant-design/icons';
 
   const { Header, Sider, Content } = Layout;
 
@@ -30,13 +31,13 @@
         path: 'announce',
         component: Announcement
       },
-      {
-        id: 2,
-        label: 'Расписание',
-        icon: <TimetableIcon />,
-        path: 'timetable',
-        component: Timetable
-      },
+      // {
+      //   id: 2,
+      //   label: 'Расписание',
+      //   icon: <TimetableIcon />,
+      //   path: 'timetable',
+      //   component: Timetable
+      // },
     ];
 
     return (
@@ -76,6 +77,16 @@
                 height: 64,
               }}
             />
+            <Button
+            type="default"
+            icon={<LogoutOutlined />}
+            // onClick={handleLogout}
+            style={{
+              marginRight: 20, // Add some margin to the right
+            }}
+          >
+            Logout
+          </Button>
           </Header>
           <Content
             style={{

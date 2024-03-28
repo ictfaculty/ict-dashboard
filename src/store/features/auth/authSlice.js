@@ -48,6 +48,7 @@ export const handleLogin = (bodyJson, navigate) => {
             if (response.ok) {
                 // If authentication is successful
                 localStorage.setItem("accessToken", responseJson.data.access_token);
+                localStorage.setItem("refreshToken", responseJson.data.refresh_token);
                 dispatch(setIsAuth(true));
                 navigate("/dashboard");
             } else {
