@@ -50,7 +50,7 @@ export const handleLogin = (bodyJson, navigate) => {
                 localStorage.setItem("accessToken", responseJson.data.access_token);
                 localStorage.setItem("refreshToken", responseJson.data.refresh_token);
                 dispatch(setIsAuth(true));
-                navigate("/dashboard");
+                navigate("/dashboard/news");
             } else {
                 console.log(responseJson.message)
                 dispatch(setMessage(responseJson.message))

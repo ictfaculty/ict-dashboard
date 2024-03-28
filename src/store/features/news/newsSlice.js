@@ -22,6 +22,7 @@ export const getNews = createAsyncThunk(
                 "Content-Type": "multipart/form-data"
             };
             const response = await axios.get(`${api}/news`, { headers })
+            console.log(response);
             const data = response.data.data
             if (response.status == '401') {
                 refreshToken()

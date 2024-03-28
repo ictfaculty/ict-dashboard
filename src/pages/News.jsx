@@ -49,9 +49,9 @@ const News = () => {
             : null
           }
           {
-            showModalEdit?
-            <ModalEdit/>
-            : null
+            showModalEdit ?
+              <ModalEdit />
+              : null
           }
         </div>
         {
@@ -63,29 +63,39 @@ const News = () => {
             <ul className='flex flex-col gap-3 h-[70vh] overflow-auto'>
               {newsList?.map(n => (
                 n ?
-                  <li key={n.id} className='flex justify-between bg-slate-100 p-4' >
-                    <div className='flex gap-2 items-center'>
-                      <img
-                        className='w-10 h-10'
-                        src={n.image_url}
-                        alt=""
-                      />
-                      <span>
-                        {n.title}
-                      </span>
-                    </div>
-                    <div className='flex gap-8'>
-                      <Switch
-                        checked={n.is_active}
-                        onChange={() => changeActive(n.id)}
-                      />
-
-                      <div div className="cursor-pointer" onClick={() => handleDelete(n.id)}>
-                        <DeleteIcon />
+                  <li key={n.id} className=' bg-slate-100 p-4' >
+                    <div className="flex justify-between mb-3">
+                      <div className='flex gap-2 items-center'>
+                        <img
+                          className='w-10 h-10 rounded-[50%]'
+                          src={n.image_url}
+                          alt=""
+                        />
+                        <span>
+                          {n.title}
+                        </span>
                       </div>
 
-                      <div className="cursor-pointer" onClick={() => handleEdit(n)}>
-                        <EditIcon />
+
+                    </div>
+                    <div className="flex justify-between items-center">
+                      <div className="">
+                        <p className='text-[10px] opacity-[.7]'>Дата: {n.created_at}</p>
+                        <p className='text-[10px] opacity-[.7]'>Автор: {n.created_by}</p>
+                      </div>
+                      <div className='flex gap-8'>
+                        <Switch
+                          checked={n.is_active}
+                          onChange={() => changeActive(n.id)}
+                        />
+
+                        <div div className="cursor-pointer" onClick={() => handleDelete(n.id)}>
+                          <DeleteIcon />
+                        </div>
+
+                        <div className="cursor-pointer" onClick={() => handleEdit(n)}>
+                          <EditIcon />
+                        </div>
                       </div>
                     </div>
                   </li>

@@ -60,7 +60,7 @@ const ModalForm = () => {
                     </Form.Item>
                     <div className="flex justify-start gap-[30px]">
                         <Button onClick={handleCancel}>Отмена</Button>
-                        <Button type="primary" htmlType="submit">Добавить</Button>
+                        <Button type="default" htmlType="submit">Добавить</Button>
                     </div>
                 </Form>
             </Modal>
