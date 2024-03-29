@@ -50,7 +50,7 @@ const Dashboard = () => {
   };
 
   return (
-    <Layout className='min-h-[100vh]'>
+    <Layout className='min-h-[98vh]'>
       <Sider trigger={null} collapsible collapsed={collapsed}>
         <div className="demo-logo-vertical py-4" />
         <Menu

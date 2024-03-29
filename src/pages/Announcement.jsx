@@ -66,9 +66,6 @@ const Announcement = () => {
                 <div className="">
                   <div className="flex justify-between gap-5">
                     <p className='text-[19px] text-red-500'>{a.title}</p>
-                    <Switch
-                      value={a.is_active}
-                    />
                   </div>
                   <p className=''>{a.description}</p>
                 </div>
