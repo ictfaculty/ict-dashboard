@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import { Layout, Menu, Button, theme } from 'antd';
 import { MenuCloseIcon, MenuOpenIcon, NewsIcon, SpeakerIcon, TimetableIcon } from '../icons';
-import { NavLink, Route, Routes, useNavigate } from 'react-router-dom';
+import { NavLink, Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 import News from '../pages/News';
 import Announcement from '../pages/Announcement';
 import Timetable from '../pages/Timetable';
 import Login from '../pages/Login';
-import { LogoutOutlined } from '@ant-design/icons';
+import { BellFilled, DollarCircleFilled, LogoutOutlined, ProjectFilled, UserSwitchOutlined } from '@ant-design/icons';
+import Trimester from '../pages/Trimester';
 
 const { Header, Sider, Content } = Layout;
 
@@ -20,43 +21,53 @@ const Dashboard = () => {
 
   const items = [
     {
-      id: 3,
+      id: '/dashboard/timetable',
+      label: 'Студенты',
+      icon: <UserSwitchOutlined />,
+      path: 'timetable',
+      component: Timetable
+    },
+    {
+      id: '/dashboard/trimester',
+      label: 'Триместр',
+      icon: <DollarCircleFilled />,
+      path: 'trimester',
+      component: Trimester
+    },
+    {
+      id: "/dashboard/news",
       label: 'Новости',
-      icon: <NewsIcon />,
+      icon: <ProjectFilled />,
       path: 'news',
       component: News
     },
     {
-      id: 1,
+      id: '/dashboard/announce',
       label: 'Объявление',
-      icon: <SpeakerIcon />,
+      icon: <BellFilled />,
       path: 'announce',
       component: Announcement
-    },
-    // {
-    //   id: 2,
-    //   label: 'Расписание',
-    //   icon: <TimetableIcon />,
-    //   path: 'timetable',
-    //   component: Timetable
-    // },
+    }
   ];
 
   const navigate = useNavigate()
-
+  const { pathname } = useLocation()
+  console.log(pathname);
   const handleLogout = () => {
     localStorage.removeItem('token');
     navigate('/login');
   };
 
   return (
-    <Layout className='min-h-[98vh]'>
+    <Layout
+      className='min-h-[100vh]'
+    >
       <Sider trigger={null} collapsible collapsed={collapsed}>
         <div className="demo-logo-vertical py-4" />
         <Menu
           theme="dark"
           mode="inline"
-          defaultSelectedKeys={['3']}
+          selectedKeys={[pathname]}
         >
           {items.map((item) => (
             <Menu.Item key={item.id} icon={item.icon}>
@@ -87,6 +98,12 @@ const Dashboard = () => {
               height: 64,
             }}
           />
+          {pathname == '/dashboard/trimester'?
+            <div className='hidden md:block text-[17px] md:text-[17px] lg:text-[23px] text-[red] text-center '>
+              <h2>Руйхати донишчуёне, ки карзи молияви доранд!</h2>
+            </div>:
+            null
+          }
           <Button
             type="default"
             icon={<LogoutOutlined />}

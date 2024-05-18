@@ -1,0 +1,5610 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "firstname": "Арифджанов",
+            "lastname": "Амирхон",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "amirxan@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "76",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "81",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "49",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "72",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "45",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "80",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "41",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "93",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "firstname": "Ғайратзода ",
+            "lastname": "Маҳмадуло",
+            "age": "22",
+            "Address": "Вахш, ул.кузагарон 34",
+            "email": "mahmad@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "911229900",
+            "birthDate": "25.12.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "37",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "94",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "83",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "88",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "74",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "89",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "98",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "87",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "83",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "85",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "95",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "firstname": "Давлатов",
+            "lastname": "Фарҳод",
+            "age": "23",
+            "Address": "Душанбе, ул.Чалчам 78/1",
+            "email": "farhod@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "917163390",
+            "birthDate": "17.02.2001",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "80",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "21",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "82",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "83",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "84",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "80",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "90",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "100",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "92",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "89",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "93",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "firstname": "Абдуқодири",
+            "lastname": "Шодмонзода",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "shodmon@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "915812222",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "70",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "70",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "69",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "52",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "86",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "64",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "97",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "89",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "99",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "100",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "firstname": "Абдуллоев",
+            "lastname": "Раҳим",
+            "age": "22",
+            "Address": "Душанбе, ул.Дехоти 52/6",
+            "email": "rahim@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "88",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "39",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "77",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "98",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "92",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "99",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "77",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "66",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "55",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "99",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "firstname": "Абдухолиқов",
+            "lastname": "Абдурозиқ",
+            "age": "21",
+            "Address": "Душанбе, ул.Гагарин 61/4",
+            "email": "abdurozic@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "20",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "20",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "20",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "20",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "21",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "70",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "70",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "79",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "65",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "82",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "90",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "firstname": "Бустонов",
+            "lastname": "Суннатулло",
+            "age": "23",
+            "Address": "Душанбе, ул.Сохили 49/2",
+            "email": "sunat@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "20",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "98",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "96",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "90",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "91",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "95",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "100",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "98",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "firstname": "Валиев",
+            "lastname": "Қурбонали",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "qurbon@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "70",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "80",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "50",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "60",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "61",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "62",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "63",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "64",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "15",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "66",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "firstname": "Иброҳимова",
+            "lastname": "Мақсуда",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "amirxan@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "77",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "99",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "91",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "74",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "33",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "59",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "88",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "77",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "73",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "89",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "firstname": "Қурбонов",
+            "lastname": "Зоирҷон",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "zoir@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "100",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "100",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "96",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "100",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "99",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "98",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "97",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "99",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "91",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "5",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "firstname": "Мирзоев",
+            "lastname": "Шарифҷон ",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 5/4",
+            "email": "sharif@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "0",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "0",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "0",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "0",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "0",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "0",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "0",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "0",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "0",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "20",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "20",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "10",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "firstname": "Назаров",
+            "lastname": "Абубакр ",
+            "age": "21",
+            "Address": "Душанбе, ул.46 5/4",
+            "email": "zoir@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "98",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "78",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "88",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "42",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "89",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "99",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "77",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "78",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "92",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "94",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "firstname": "Назриев",
+            "lastname": "Шавқатҷон",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "shavkat@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "00000001",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "90",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "90",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "90",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "90",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "firstname": "Неҳматова",
+            "lastname": "Шукрона",
+            "age": "21",
+            "Address": "Душанбе, ул.Фотех 5/4",
+            "email": "shukrona@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "001001001",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "51",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "32",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "77",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "96",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "99",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "65",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "87",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "88",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "54",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "51",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "50",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "firstname": "Низомов",
+            "lastname": "Тақдир",
+            "age": "21",
+            "Address": "Душанбе, ул.Мардон 94",
+            "email": "taqdir@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "100",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "100",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "100",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "100",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "99",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "98",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "97",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "99",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "91",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "95",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "firstname": "Зулфиев",
+            "lastname": "Анушервон",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "anush@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "60",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "60",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "60",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "70",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "80",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "66",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "76",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "77",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "56",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "90",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "89",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "firstname": "Каримзода",
+            "lastname": "Ардамеҳр",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "zoir@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "80",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "77",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "76",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "56",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "76",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "88",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "89",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "98",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "67",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "87",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "90",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "firstname": "Набиев",
+            "lastname": "Аслиддин",
+            "age": "21",
+            "Address": "Душанбе, ул.Кушониён 12",
+            "email": "asliddin@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "900010101",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "100",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "100",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "96",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "100",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "99",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "98",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "97",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "99",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "91",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "95",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "firstname": "Обидов",
+            "lastname": "Табриз",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "tabriz@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "55",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "56",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "54",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "75",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "95",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "86",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "37",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "76",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "74",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "71",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "80",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "firstname": "Раҳимзода",
+            "lastname": "Баҳриддин",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "zoir@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "4",
+            "firstSemester": [
+                {
+                    "id": "1",
+                    "name": "АНИА",
+                    "grade": "80",
+                    "credits": 4
+                },
+                {
+                    "id": "2",
+                    "name": "Дизайн",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "3",
+                    "name": "Хифзи маълумот",
+                    "grade": "80",
+                    "credits": 3
+                },
+                {
+                    "id": "4",
+                    "name": "БЖД",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "5",
+                    "name": "Модел систем",
+                    "grade": "96",
+                    "credits": 6
+                },
+                {
+                    "id": "6",
+                    "name": "Барномасозӣ",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "7",
+                    "name": "ТОАУ",
+                    "grade": "99",
+                    "credits": 6
+                },
+                {
+                    "id": "8",
+                    "name": "Экономика",
+                    "grade": "98",
+                    "credits": 2
+                },
+                {
+                    "id": "9",
+                    "name": "Шабакахои компютери",
+                    "grade": "88",
+                    "credits": 7
+                },
+                {
+                    "id": "10",
+                    "name": "Эргономика",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "11",
+                    "name": "Идоракуни",
+                    "grade": "71",
+                    "credits": 1
+                },
+                {
+                    "id": "12",
+                    "name": "Зехни сунъи",
+                    "grade": "99",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "firstname": "Дуров",
+            "lastname": "Даврон",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "davron@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "76",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "81",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "49",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "72",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "45",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "80",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "41",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "93",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "firstname": "Гадоев",
+            "lastname": "Хуршед",
+            "age": "22",
+            "Address": "Душанбе, ул.кузагарон 34",
+            "email": "hurshed@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "911229900",
+            "birthDate": "25.12.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "50",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "50",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "61",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "54",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "55",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "90",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "91",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "91",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "90",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "91",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "firstname": "Хасанов",
+            "lastname": "Фарид",
+            "age": "23",
+            "Address": "Душанбе, ул.Чалчам 78/1",
+            "email": "farid@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "917163390",
+            "birthDate": "17.02.2001",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "98",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "78",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "96",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "51",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "89",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "95",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "78",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "69",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "99",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "firstname": "Саидов",
+            "lastname": "Исмаил",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "ismail@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "915812222",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "66",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "51",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "89",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "62",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "45",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "80",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "41",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "93",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "firstname": "Саторов",
+            "lastname": "Шерзод",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехоти 52/6",
+            "email": "sherzod@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "53",
+                    "name": "ЭВМ",
+                    "grade": "76",
+                    "credits": 4
+                },
+                {
+                    "id": "84",
+                    "name": ".NET",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "61",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "79",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "52",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "95",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "69",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "97",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "71",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "63",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "firstname": "Темурджонов",
+            "lastname": "Азимджон",
+            "age": "21",
+            "Address": "Душанбе, ул.Гагарин 61/4",
+            "email": "abdurozic@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "100",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "100",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "100",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "100",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "100",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "100",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "100",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "100",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "100",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "100",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "firstname": "Самариддини",
+            "lastname": "Абдукарим",
+            "age": "21",
+            "Address": "Душанбе, ул.Сохили 49/2",
+            "email": "sunat@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "76",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "81",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "49",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "72",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "45",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "80",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "41",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "93",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "firstname": "Нурматов",
+            "lastname": "Азизджон",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "qurbon@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "91",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "91",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "90",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "91",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "90",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "91",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "91",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "90",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "91",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "29",
+            "firstname": "Шарипов",
+            "lastname": "Самариддин",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "samaridin@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "81",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "80",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "83",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "84",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "85",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "86",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "87",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "84",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "82",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "89",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "29",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "30",
+            "firstname": "Турсунова",
+            "lastname": "Мунира",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "munira@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "66",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "81",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "49",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "92",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "82",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "80",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "81",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "99",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "31",
+            "firstname": "Икромов",
+            "lastname": "Вохид ",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 5/4",
+            "email": "vohid@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "93",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "92",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "94",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "97",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "95",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "93",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "93",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "96",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "93",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "32",
+            "firstname": "Нигматов",
+            "lastname": "Анушервон",
+            "age": "21",
+            "Address": "Душанбе, ул.46 5/4",
+            "email": "anusher@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "81",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "87",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "71",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "52",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "100",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "85",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "69",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "90",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "91",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "81",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "91",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "firstname": "Саидэхсонзода",
+            "lastname": "Джовид",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "jovid@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "00000001",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "51",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "53",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "71",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "99",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "62",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "98",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "85",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "82",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "89",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "56",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "51",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "92",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "34",
+            "firstname": "Сайфиев",
+            "lastname": "Шохин",
+            "age": "21",
+            "Address": "Душанбе, ул.Фотех 5/4",
+            "email": "shohin@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "001001001",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "96",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "98",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "41",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "89",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "62",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "50",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "55",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "59",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "60",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "57",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "71",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "83",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "35",
+            "firstname": "Сайфиев",
+            "lastname": "Бежан",
+            "age": "21",
+            "Address": "Душанбе, ул.Мардон 94",
+            "email": "bezhan@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "86",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "18",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "71",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "69",
+                    "credits": 3
+                },
+                {
+                    "id": "97",
+                    "name": "СУБД",
+                    "grade": "72",
+                    "credits": 6
+                },
+                {
+                    "id": "94",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "75",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "89",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "70",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "51",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "93",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "firstname": "Аминов",
+            "lastname": "Шахромчон",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "shahromjanehe@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "71",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "68",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "44",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "68",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "56",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "55",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "32",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "80",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "67",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "51",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "96",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "37",
+            "firstname": "Саидов",
+            "lastname": "Субхон",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "subhon@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "56",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "68",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "61",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "59",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "62",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "70",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "55",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "79",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "60",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "57",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "61",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "100",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "38",
+            "firstname": "Раджабов",
+            "lastname": "Нушервон",
+            "age": "21",
+            "Address": "Душанбе, ул.Кушониён 12",
+            "email": "nusherak@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "900010101",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "88",
+                    "credits": 4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "84",
+                    "credits": 2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "55",
+                    "credits": 3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "84",
+                    "credits": 3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "72",
+                    "credits": 6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "45",
+                    "credits": 6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "80",
+                    "credits": 7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "41",
+                    "credits": 1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "93",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "39",
+            "firstname": "Назаров",
+            "lastname": "Абубакр",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "abubakr@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "66",
+                    "credits":4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "38",
+                    "credits":2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "91",
+                    "credits":3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "54",
+                    "credits":3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "90",
+                    "credits":6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "60",
+                    "credits":5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "75",
+                    "credits":6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "89",
+                    "credits":2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "50",
+                    "credits":7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "67",
+                    "credits":4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "71",
+                    "credits":1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "100",
+                    "credits":8
+                }
+            ]
+        },
+        {
+            "id": "40",
+            "firstname": "Джумаев",
+            "lastname": "Фаридун",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "faridun@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "3",
+            "firstSemester": [
+                {
+                    "id": "13",
+                    "name": "ЭВМ",
+                    "grade": "96",
+                    "credits":4
+                },
+                {
+                    "id": "14",
+                    "name": ".NET",
+                    "grade": "98",
+                    "credits":2
+                },
+                {
+                    "id": "15",
+                    "name": "Андроид",
+                    "grade": "90",
+                    "credits":3
+                },
+                {
+                    "id": "16",
+                    "name": "эҳтимолият",
+                    "grade": "92",
+                    "credits":3
+                },
+                {
+                    "id": "17",
+                    "name": "СУБД",
+                    "grade": "94",
+                    "credits":6
+                },
+                {
+                    "id": "18",
+                    "name": "Экология",
+                    "grade": "99",
+                    "credits":5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "19",
+                    "name": "СО",
+                    "grade": "91",
+                    "credits":6
+                },
+                {
+                    "id": "20",
+                    "name": "СУБД",
+                    "grade": "91",
+                    "credits":2
+                },
+                {
+                    "id": "21",
+                    "name": "Т-я решеения",
+                    "grade": "92",
+                    "credits":7
+                },
+                {
+                    "id": "22",
+                    "name": "WEB",
+                    "grade": "91",
+                    "credits":4
+                },
+                {
+                    "id": "23",
+                    "name": "Производство",
+                    "grade": "94",
+                    "credits":1
+                },
+                {
+                    "id": "24",
+                    "name": "ҳарбӣ",
+                    "grade": "98",
+                    "credits":8
+                }
+            ]
+        },
+        {
+            "id": "41",
+            "firstname": "Расулов",
+            "lastname": "Раҳим",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "rahimi@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "55",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "54",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "67",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "61",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "59",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "80",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "76",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "74",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "88",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "82",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "100",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "91",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "42",
+            "firstname": "Ғафуров",
+            "lastname": "Наби",
+            "age": "22",
+            "Address": "Душанбе, ул.кузагарон 34",
+            "email": "nabi@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "911229900",
+            "birthDate": "25.12.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "49",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "52",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "57",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "50",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "53",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "66",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "43",
+            "firstname": "Неъматов",
+            "lastname": "Хол",
+            "age": "20",
+            "Address": "Душанбе, ул.Чалчам 78/1",
+            "email": "farid@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "917163390",
+            "birthDate": "17.02.2001",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "49",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "52",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "57",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "50",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "53",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "66",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "44",
+            "firstname": "Холов",
+            "lastname": "Исмаил",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "ismail@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "915812222",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "82",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "80",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "97",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "71",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "96",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "70",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "83",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "96",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "99",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "88",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "98",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "45",
+            "firstname": "Бадалов",
+            "lastname": "Неъмат",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехоти 52/6",
+            "email": "sherzod@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "99",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "99",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "99",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "99",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "99",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "98",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "98",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "98",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "98",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "97",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "99",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "46",
+            "firstname": "Аҳмадов",
+            "lastname": "Азим",
+            "age": "21",
+            "Address": "Душанбе, ул.Гагарин 61/4",
+            "email": "abdurozic@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "50",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "50",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "50",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "50",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "50",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "53",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "52",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "54",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "39",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "38",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "47",
+            "firstname": "Ҳасанов",
+            "lastname": "Абдурахим",
+            "age": "21",
+            "Address": "Душанбе, ул.Сохили 49/2",
+            "email": "sunat@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "89",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "89",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "90",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "89",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "92",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "91",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "92",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "91",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "92",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "99",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "48",
+            "firstname": "Ролов",
+            "lastname": "Азизджон",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "qurbon@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "49",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "59",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "47",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "61",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "50",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "60",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "73",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "56",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "69",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "58",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "77",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "49",
+            "firstname": "Самаров",
+            "lastname": "Самариддин",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 56/4",
+            "email": "samaridin@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "89",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "89",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "89",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "89",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "89",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "98",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "98",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "89",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "98",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "89",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "89",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "50",
+            "firstname": "Трусунов",
+            "lastname": "Мунир",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "munira@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "100",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "0",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "80",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "88",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "87",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "90",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "98",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "87",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "100",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "90",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "51",
+            "firstname": "Вохидов",
+            "lastname": "Вохид",
+            "age": "21",
+            "Address": "Душанбе, ул.Дехлави 5/4",
+            "email": "vohid@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "99",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "2",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "67",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "60",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "63",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "76",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "69",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "78",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "firstname": "Анушервонов",
+            "lastname": "Али",
+            "age": "21",
+            "Address": "Душанбе, ул.46 5/4",
+            "email": "anusher@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "51",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "52",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "19",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "17",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "38",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "50",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "53",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "66",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "53",
+            "firstname": "Джовидов",
+            "lastname": "Саид",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "jovid@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "00000001",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "77",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "77",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "77",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "77",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "77",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "77",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "88",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "88",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "88",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "88",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "88",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "54",
+            "firstname": "Шохинов",
+            "lastname": "Сайф",
+            "age": "21",
+            "Address": "Душанбе, ул.Фотех 5/4",
+            "email": "shohin@gmail.com",
+            "group": "530102-A",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "001001001",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "49",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "52",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "57",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "50",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "53",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "66",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "firstname": "Бежанов",
+            "lastname": "Бержан",
+            "age": "21",
+            "Address": "Душанбе, ул.Мардон 94",
+            "email": "bezhan@gmail.com",
+            "group": "530102-A",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "90",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "92",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "99",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "97",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "94",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "96",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "98",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "94",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "97",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "99",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "91",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "96",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "firstname": "Шахромчонов",
+            "lastname": "Амин",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "shahromjanehe@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "29",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "52",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "57",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "50",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "53",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "66",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "57",
+            "firstname": "Субхонов",
+            "lastname": "Саид",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "subhon@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "98",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "88",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "89",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "90",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "91",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "93",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "95",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "93",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "86",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "89",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "88",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "91",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "58",
+            "firstname": "Нушервонов",
+            "lastname": "Раджаб",
+            "age": "21",
+            "Address": "Душанбе, ул.Кушониён 12",
+            "email": "nusherak@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "900010101",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "99",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "52",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "100",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "57",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "90",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "50",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "53",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "66",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "59",
+            "firstname": "Абубакров",
+            "lastname": "Раджаб",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "abubakr@gmail.com",
+            "group": "530102-Б",
+            "isBudget": false,
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "67",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "32",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "89",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "57",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "51",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "80",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "50",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "53",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "66",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "79",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "98",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "97",
+                    "credits": 8
+                }
+            ]
+        },
+        {
+            "id": "60",
+            "firstname": "Фаридунов",
+            "lastname": "Джума",
+            "age": "21",
+            "Address": "Душанбе, ул.Гипрозем 5/4",
+            "email": "faridun@gmail.com",
+            "group": "530102-Б",
+            "isBudget": "true",
+            "isFulltime": true,
+            "phone": "939313332",
+            "birthDate": "05.10.2002",
+            "gender": "man",
+            "course": "2",
+            "firstSemester": [
+                {
+                    "id": "25",
+                    "name": "Культурология",
+                    "grade": "69",
+                    "credits": 4
+                },
+                {
+                    "id": "26",
+                    "name": "Хукук",
+                    "grade": "69",
+                    "credits": 2
+                },
+                {
+                    "id": "27",
+                    "name": "Эл-техника",
+                    "grade": "69",
+                    "credits": 3
+                },
+                {
+                    "id": "28",
+                    "name": "Математика",
+                    "grade": "69",
+                    "credits": 3
+                },
+                {
+                    "id": "29",
+                    "name": "Графика",
+                    "grade": "69",
+                    "credits": 6
+                },
+                {
+                    "id": "30",
+                    "name": "Информатика",
+                    "grade": "69",
+                    "credits": 5
+                }
+            ],
+            "secondSemester": [
+                {
+                    "id": "31",
+                    "name": "Фалсафа",
+                    "grade": "69",
+                    "credits": 6
+                },
+                {
+                    "id": "32",
+                    "name": "Сиёсатшиносӣ",
+                    "grade": "69",
+                    "credits": 2
+                },
+                {
+                    "id": "33",
+                    "name": "Диншиносӣ",
+                    "grade": "69",
+                    "credits": 7
+                },
+                {
+                    "id": "34",
+                    "name": "Мантиқ",
+                    "grade": "69",
+                    "credits": 4
+                },
+                {
+                    "id": "35",
+                    "name": "иқтисод",
+                    "grade": "69",
+                    "credits": 1
+                },
+                {
+                    "id": "36",
+                    "name": "ҳарбӣ",
+                    "grade": "69",
+                    "credits": 8
+                }
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "id": "1",
+            "name": "АНИА"
+        },
+        {
+            "id": "2",
+            "name": "Дизайн"
+        },
+        {
+            "id": "3",
+            "name": "ҳифзи маълумот"
+        },
+        {
+            "id": "4",
+            "name": "БЖД"
+        },
+        {
+            "id": "5",
+            "name": "Модел систем"
+        },
+        {
+            "id": "6",
+            "name": "Техн-барномасозӣ"
+        },
+        {
+            "id": "7",
+            "name": "ТОАУ"
+        },
+        {
+            "id": "8",
+            "name": "Экономика"
+        },
+        {
+            "id": "9",
+            "name": "Шабакахои-комп"
+        },
+        {
+            "id": "10",
+            "name": "Эргономика"
+        },
+        {
+            "id": "11",
+            "name": "Идоракуни"
+        },
+        {
+            "id": "12",
+            "name": "ИИ"
+        },
+        {
+            "id": "13",
+            "name": "ЭВМ"
+        },
+        {
+            "id": "14",
+            "name": ".NET"
+        },
+        {
+            "id": "15",
+            "name": "Андроид"
+        },
+        {
+            "id": "16",
+            "name": "эҳтимолият"
+        },
+        {
+            "id": "17",
+            "name": "СУБД"
+        },
+        {
+            "id": "18",
+            "name": "Экология"
+        },
+        {
+            "id": "19",
+            "name": "СО"
+        },
+        {
+            "id": "20",
+            "name": "СУБД"
+        },
+        {
+            "id": "21",
+            "name": "Т-я решеения"
+        },
+        {
+            "id": "22",
+            "name": "WEB"
+        },
+        {
+            "id": "23",
+            "name": "Производство"
+        },
+        {
+            "id": "24",
+            "name": "ҳарбӣ"
+        },
+        {
+            "id": "25",
+            "name": "Куль-логия"
+        },
+        {
+            "id": "26",
+            "name": "Хукук"
+        },
+        {
+            "id": "27",
+            "name": "Эл-техника"
+        },
+        {
+            "id": "28",
+            "name": "Математика"
+        },
+        {
+            "id": "29",
+            "name": "Графика"
+        },
+        {
+            "id": "30",
+            "name": "Информатика"
+        },
+        {
+            "id": "31",
+            "name": "Фалсафа"
+        },
+        {
+            "id": "32",
+            "name": "Сиёсатшиносӣ"
+        },
+        {
+            "id": "33",
+            "name": "Диншиносӣ"
+        },
+        {
+            "id": "34",
+            "name": "Мантиқ"
+        },
+        {
+            "id": "35",
+            "name": "иқтисод"
+        },
+        {
+            "id": "36",
+            "name": "ҳарбӣ"
+        }
+    ]
+}

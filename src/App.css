@@ -1,0 +1,42 @@
+table {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #000;
+    padding: 7px 12px;
+}
+
+th:nth-child(2) {
+    font-size: 15px;
+    width: 22%;
+}
+td:nth-child(1) {
+    opacity: .5;
+}
+
+th {
+    font-size: 13px;
+    /* font-weight: bold; */
+}
+
+td {
+    font-size: 16px;
+    /* width: auto; */
+}
+
+thead {
+    position: sticky;
+    top: 0px;
+    /* From https://css.glass */
+    /* background: rgba(255, 255, 255, 0);
+    backdrop-filter: blur(10.9px); */
+    background: rgb(20, 20, 41);
+    color: #fff;
+    border: 1px solid #000;
+}
+.element-with-scroll {
+    scrollbar-width: none;
+}
